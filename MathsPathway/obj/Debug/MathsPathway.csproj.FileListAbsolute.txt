@@ -1,0 +1,5 @@
+C:\Test\MathsPathway\MathsPathway\obj\Debug\MathsPathway.csprojResolveAssemblyReference.cache
+C:\Test\MathsPathway\MathsPathway\bin\MathsPathway.dll
+C:\Test\MathsPathway\MathsPathway\bin\MathsPathway.pdb
+C:\Test\MathsPathway\MathsPathway\obj\Debug\MathsPathway.dll
+C:\Test\MathsPathway\MathsPathway\obj\Debug\MathsPathway.pdb
